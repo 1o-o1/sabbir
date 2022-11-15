@@ -1394,7 +1394,7 @@ ul.iconsbig {
         }
 @media screen and (max-width: 500px) {  ul.iconsbig li .icon:before {
           font-size: 1.7em; }}
-
+/*link font*/
 
 /* Contact */
 ul.contact {
