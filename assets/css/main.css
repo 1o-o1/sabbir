@@ -2464,3 +2464,16 @@ button,
 
 
 /* Nav */
+
+.embed {
+  padding-top: 2em;
+  width: 640px;
+  height: 640px;
+}
+@media screen and (max-width: 500px) {
+  .embed {
+    padding-top: 2em;
+    width: 380px;
+    height: 240px;
+  }
+}
